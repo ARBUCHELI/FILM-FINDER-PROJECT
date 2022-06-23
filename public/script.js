@@ -100,7 +100,7 @@ const displayMovie = (movieInfo) => {
     dislikeBtn.onclick = dislikeMovie;
 };
 
-const tmdbKey = '89f579f1807740ae615c8741884b7f5f';
+const tmdbKey = 'the-value-of-this-variable-is-hidden-for-security-reasons';
 const tmdbBaseUrl = 'https://api.themoviedb.org/3';
 const playBtn = document.getElementById('playBtn');
 
